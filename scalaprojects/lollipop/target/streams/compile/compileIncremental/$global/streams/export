@@ -1,1 +1,0 @@
-scalac -bootclasspath /Users/tech/.sbt/boot/scala-2.12.4/lib/scala-library.jar -classpath /Users/tech/codes/scala/scalaprojects/lollipop/target/scala-2.12/classes /Users/tech/codes/scala/scalaprojects/lollipop/src/main/scala/HelloWorld.scala
