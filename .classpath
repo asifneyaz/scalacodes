@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="firstscala/src/main/scala"/>
+	<classpathentry kind="src" path="HelloWorld/src/main/scala"/>
+	<classpathentry kind="src" path="scalaprojects/gettingstarted/src/main/scala"/>
+	<classpathentry kind="src" path="scalaprojects/lollipop/src/main/scala"/>
+	<classpathentry kind="src" path="scalaprojects/monkey/src/main/scala"/>
+	<classpathentry kind="src" path="scalaprojects/sbttest/src/main/scala"/>
+	<classpathentry kind="src" path="scalaprojects/src"/>
+	<classpathentry kind="src" path="thebeginning/src/main/scala"/>
+	<classpathentry kind="lib" path="scalaprojects/gettingstarted/target/scala-2.12/gettingstarted_2.12-1.0.jar"/>
+	<classpathentry kind="lib" path="scalaprojects/lollipop/target/scala-2.12/lollipop_2.12-0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="scalaprojects/monkey/target/scala-2.12/monkey_2.12-1.0.jar"/>
+	<classpathentry kind="lib" path="scalaprojects/sbttest/target/scala-2.12/sbttest_2.12-1.0.jar"/>
+	<classpathentry kind="output" path="firstscala/target/scala-2.12/classes"/>
+</classpath>
